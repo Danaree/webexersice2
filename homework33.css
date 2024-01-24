@@ -1,0 +1,47 @@
+#tatil{
+  font-size: 50px;
+  text-align: center;  
+}
+#footer{
+    font-size: 25px;
+    text-align: center; 
+    margin-top: 100;
+}
+#p{
+    font-size: 25px;
+    margin-left: 7;
+}
+.center{
+    margin: auto;
+   
+}
+#caption{
+    color: blue;
+}
+#div1{
+    color: black;
+    font-size: 15px;
+    margin-left: 7;
+}
+.rasm{
+float: right;
+}
+#YAKAM{
+font-size: 20PX;
+}
+#DWAM{
+    font-size: 20PX;
+}
+#SYAM{
+
+    font-size: 20PX;
+}
+#CHWARAM{
+    font-size: 20PX;
+}
+#table{
+    width:5cm;
+    height: 3cm;
+    margin: auto;
+    margin-top: 50;
+}
